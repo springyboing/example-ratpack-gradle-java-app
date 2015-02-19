@@ -1,0 +1,3 @@
+image: docker:///dockerfile/java:oracle-java8
+run:
+  path: example-ratpack-gradle-java-app/gradlew build
